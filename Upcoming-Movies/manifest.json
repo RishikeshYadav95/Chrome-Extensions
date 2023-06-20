@@ -1,6 +1,6 @@
 {
     "name": "Upcoming Movies",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is an extension to look up upcoming movies",
     "manifest_version": 3,
     "author": "Rishikesh Yadav",
