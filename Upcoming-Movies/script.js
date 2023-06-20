@@ -3,7 +3,7 @@ async function fetchData() {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'de5305dde6mshf5d2e88bcf5ce08p1fed81jsna3c7c497bae7',
+            'X-RapidAPI-Key': '<Add your token here>',
             'X-RapidAPI-Host': 'moviesdatabase.p.rapidapi.com'
         }
     };
