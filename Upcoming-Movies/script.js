@@ -1,7 +1,7 @@
 async function fetchData() {
     const year = new Date().getFullYear();
 
-    const url = 'https://moviesdatabase.p.rapidapi.com/titles/x/upcoming?year=' + year;
+    const url = 'https://moviesdatabase.p.rapidapi.com/titles/x/upcoming?limit=20&year=' + year;
     const options = {
         method: 'GET',
         headers: {
