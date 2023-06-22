@@ -1,0 +1,11 @@
+{
+    "name": "Netflix Recommender",
+    "version": "1.0.0",
+    "description": "This is an extension to recommend movies/shows from Netflix based on user search.",
+    "manifest_version": 3,
+    "author": "Rishikesh Yadav",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Netflix Recommender"
+    }
+}
