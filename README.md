@@ -1,5 +1,5 @@
 # Chrome-Extensions
-Developed following chrome-extensions.
+Developed the following chrome-extensions.
 
 #### 1. Netflix Recommender
 <p align="left">
