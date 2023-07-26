@@ -7,7 +7,7 @@
 This is an extension to recommend anime movies and shows to users.
 
 ### Description
-You no longer have to worry about deciding what to watch. This extension helps anime lovers find anime movies and shows based on genres and keywords. It also recommends anime movies and shows to users. You can also search genres, keywords, etc. to get specific recommendations. A simple click on any of the recommendations will redirect you to a new tab where you can find all details about the anime.
+You no longer have to worry about deciding which anime movie/series to watch next. This extension helps anime lovers find anime movies and shows based on genres and keywords. It also recommends anime movies and shows to users. A simple click on any of the recommendations will redirect you to a new tab where you can find all details about the anime.
 
 ### How to Install
 1. Please click on the above Anime Sensei logo or click the following [Link](https://chrome.google.com/webstore/detail/netflix-recommender/jmlenepjghcaamoohdpjgnmaaememald).
