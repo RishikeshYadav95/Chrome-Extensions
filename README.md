@@ -2,7 +2,7 @@
 Developed the following chrome-extensions.
 <table>
 <tr>
-  <th><a href="https://chrome.google.com/webstore/detail/netflix-recommender/jmlenepjghcaamoohdpjgnmaaememald" target="_blank">Netflix<br>recommender</a></th>
+  <th><a href="/Netflix-Recommender/README.md" target="_blank">Netflix<br>recommender</a></th>
   <th><a href="/Anime Sensei/README.md" target="_blank">Anime Sensei</a></th>
 </tr>
 <tr><td>
